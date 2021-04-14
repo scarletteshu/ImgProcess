@@ -1,2 +1,2 @@
 # ImgProcess
-tips about img processing with python
+tips and basic operations about img processing with python
